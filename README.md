@@ -20,4 +20,4 @@ The system streamlines license issuance, renewal, and detention tracking, ensuri
 - **Architecture:** 3-Tier Architecture
 
 ## ✉️ Contact
-For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:your-email@example.com)
+For any queries, reach out at [mohammedalfatih606@gmail.com](mailto:mohammedalfatih606@gmail)
